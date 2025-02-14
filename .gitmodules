@@ -1,0 +1,8 @@
+[submodule "main/submodule_ex"]
+	path = main/submodule_ex
+	url = git@github.com:bsb808/submodule_ex.git
+	branch = main
+[submodule "dev/submodule_ex"]
+	path = dev/submodule_ex
+	url = git@github.com:bsb808/submodule_ex.git
+	branch = dev
